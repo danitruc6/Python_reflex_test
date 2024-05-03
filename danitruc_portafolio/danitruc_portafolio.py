@@ -6,7 +6,7 @@ from danitruc_portafolio.pages.courses import courses
 
 
 class State(rx.State):
-    pass
+    """Define your state here."""
 
 
 app = rx.App(
